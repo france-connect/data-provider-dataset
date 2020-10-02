@@ -1,0 +1,8 @@
+spi          ,annrev,numVoie,btq,libelleVoie            ,libelleCommune,regimeTax,locaux1.natureLocal,locaux1.affectation,locaux1.invariant,codeHTTP,codeapp
+3999999931263,2018  ,       ,   ,                       ,              ,         ,                   ,                   ,                 ,204     ,2044
+3999999930262,2019  ,42     ,   ,RUE ABBE DE L EPEE     ,MARSEILLE     ,P        ,MA                 ,H                  ,1234567906A      ,200     ,
+3999999931263,2019  ,100    ,   ,BOULEVARD BAILLE       ,MARSEILLE     ,P        ,MA                 ,H                  ,1234567896G      ,200     ,
+3999999932264,2019  ,8      ,   ,RUE JULIEN LACROIX     ,PARIS         ,P        ,AP                 ,H                  ,1234567898G      ,200     ,
+3999999936268,2019  ,172    ,   ,BOULEVARD SAINT GERMAIN,PARIS         ,P        ,AP                 ,H                  ,1234567900G      ,200     ,
+3999999942274,2019  ,5      ,   ,PLACE BERTONNE         ,LYON          ,P        ,AP                 ,H                  ,1234567901G      ,200     ,
+3999999943275,2019  ,43     ,   ,RUE FRANKLIN           ,LYON          ,P        ,AP                 ,H                  ,1234567902G      ,200     ,
